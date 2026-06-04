@@ -27,7 +27,7 @@ Control a servo motor and a 28BYJ-48 stepper motor using a dual-axis joystick an
 ---
 
 ## Wiring
-![Arduino Wiring Schematic](docs/docs/arduino_joystick_motor_control.svg)
+![Arduino Wiring Schematic](docs/arduino_joystick_motor_control.svg)
 ### Joystick
 
 | Joystick Pin | Arduino |
